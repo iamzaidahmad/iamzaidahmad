@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zaid Ahmad.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently exploring SQL / Spreadsheets / Tableau / R / Python
-- 💞️ I’m building my portfolio projects with SQL, R and Python.
+- 👀 I am anspiring software engineer.
+- 🌱 I’m currently working with Python.
+- 💞️ I’m building my portfolio projects to put my learnings to practise.
 - 📫 How to reach me www.linkedin.com/in/zaidahmad24
 
 
