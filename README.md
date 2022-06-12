@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zaid Ahmad.
-- 👀 I am anspiring software engineer.
-- 🌱 I’m currently working with Python.
+- 👀 I am anspiring data analyst.
+- 🌱 I’m currently working with SQL, Tableau, Excel and Python.
 - 💞️ I’m building my portfolio projects to put my learnings to practise.
 - 📫 How to reach me www.linkedin.com/in/zaidahmad24
 
